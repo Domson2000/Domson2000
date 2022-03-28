@@ -8,4 +8,3 @@
 <h3 align="center">📊 Statystyki:</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Domson2000&show_icons=true&locale=pl&layout=compact&theme=dark" alt="Domson2000"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Domson2000&show_icons=true&locale=pl&theme=dark" alt="Domson2000"/>
-<h1 align="center">�Live is brutal!</h1>
